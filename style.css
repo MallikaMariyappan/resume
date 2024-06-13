@@ -1,0 +1,25 @@
+*{
+    margin: 0,auto;
+    background-color: #DDD0D1;
+}
+body div{
+     width: 80%;
+    text-align: left;
+    /* margin: 0 300px 0;
+    
+    background-color: #DDD0D1; */
+    padding: 0 50px 0;
+} 
+body .sidebar, .start{
+    text-align: start;
+    
+}
+div img{
+    text-align: right;
+}
+.start{
+    display: flex;
+}
+.footer{
+    display: flex;
+}
